@@ -1,6 +1,6 @@
 # Análisis de la Evolución Socioeconómica Comparada en  países del este de Europa
 
-Este proyecto tiene como objetivo analizar la evolución socioeconómica comparada de varios países europeos utilizando datos de EUROSTAT. Se centrará en los países Italia, Bulgaria, Lituania, Croacia y la Unión Europea (UE27).
+Este proyecto tiene como objetivo analizar la evolución socioeconómica comparada de varios países europeos utilizando datos del cierre del 2019 de EUROSTAT. Se centrará en los países Italia, Bulgaria, Lituania, Croacia y la Unión Europea (UE27).
 
 ## Indicaciones Generales
 
@@ -14,21 +14,9 @@ Para llevar a cabo este análisis, se seguirán las siguientes indicaciones gene
 ## Dashboard
 ![image](https://github.com/IsaacLaaouaj/Analisis_Socioeconomico_Este_UE/assets/117636062/f96406e1-f97a-4a4a-8cf8-a0de85604df3)
 
-## Estructura y Contenido
+## Inversión
 
-El proyecto seguirá la siguiente estructura y contenido:
-
-- Portada: Incluirá el nombre de los miembros del equipo y el país asignado a cada uno.
-- Crecimiento Económico: Gráfico 1 (una variable).
-- Estructura Productiva: Gráfico 2 (variable = Distribución Sectorial 2020).
-- Nivel de Vida: Gráfico 3 (una variable).
-- Mercado de Trabajo: Gráfico 4 (una variable).
-- Sector Público: Gráfico 5.1 y Gráfico 5.2 (dos variables).
-- Sector Exterior: Gráfico 6.1 y Gráfico 6.2 (dos variables).
-
-## Recomendaciones de Inversión
-
-Si un grupo inversor nos pidiera asesoramiento para decidir invertir en uno de estos países, se proporcionarán recomendaciones respaldadas por la información analizada en el proyecto.
+Si un grupo inversor nos pidiera asesoramiento para decidir invertir en uno de estos países, se proporcionarán recomendaciones respaldadas por la información analizada en el proyecto (país ganador Italia).
 
 ## Archivos
 
