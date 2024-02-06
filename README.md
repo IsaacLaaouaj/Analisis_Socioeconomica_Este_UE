@@ -4,12 +4,12 @@ Este proyecto tiene como objetivo analizar la evolución socioeconómica compara
 
 ## Indicaciones Generales
 
-Para llevar a cabo este análisis, se seguirán las siguientes indicaciones generales:
+Para llevar a cabo este análisis:
 
-- Preparar una presentación que analice la evolución socioeconómica comparada de los países y la UE27.
-- Utilizar gráficos para visualizar los datos y resumir las conclusiones.
-- No realizar cálculos adicionales, sino utilizar los cálculos previamente realizados con la serie temporal disponible.
-- Entregar un archivo Excel con los cálculos y datos, así como un archivo PowerPoint con la presentación final.
+- Presentación de la evolución socioeconómica comparada de los países y la UE27.
+- Gráficos para visualizar los datos y resumir las conclusiones.
+- Utilizar los cálculos previamente realizados con la serie temporal disponible.
+- Excel con los cálculos y datos, así como un archivo PowerPoint.
 
 ## Dashboard
 ![image](https://github.com/IsaacLaaouaj/Analisis_Socioeconomico_Este_UE/assets/117636062/f96406e1-f97a-4a4a-8cf8-a0de85604df3)
